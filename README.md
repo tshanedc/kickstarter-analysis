@@ -16,15 +16,25 @@ The goal of this project is to determine and exploit any clear trends that sugge
 
 ### Analysis of Outcomes Based on Goals
 
+**Figure 2** shows the percentage of shows that succeeded, failed, or were canceled based on the fundraising goal. 
+
+**Figure 2**
+![Outcomes_vs_Goals](Outcomes_vs_Launch.png)
+
+
 ### Challenges and Difficulties Encountered
+One challenge I faced was 
+
 
 ## **Results**
 
 - **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
-A project is most likely to succeed if its kickstarter is launched in May. A project has roughly an equal chance of succeeding or failing if launched in December.
+A kickstarter campaign which begins in May has the highest probability of succeeding, though this is the month in which the most failed projects were launched. A kickstarter campaign launched in December has the highest probability of failure, even though this is the month with the fewest number of failed projects.
+
 - **What can you conclude about the Outcomes based on Goals?**
 
 - **What are some limitations of this dataset?**
+
 
 - **What are some other possible tables and/or graphs that we could create?**
