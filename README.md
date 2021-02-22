@@ -12,7 +12,7 @@ The goal of this project is to determine and exploit any clear trends that sugge
 **Figure 1**
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
-This chart shows that May is the month in which the most successful kickstarter campaigns are launched. However what is also true is that May is the month in which the most failed kickstarter campaigns are launched as well. In fact the peaks and troughs of both trend lines mirror one another thoughout the year. Between January and February, there is an uptick in both the number of failed projects and the number of successful projects. This is followed by decline in March, upticks in April and May. In the summer months of May, June, and July there more successful projects than failed projects, however the decline in successful projects is greater in magnitude than the decline in failed projects, which more closely resembles a plateau. Therefore relatively fewer projects are succesfful later in the summer compared to the proportion of successful projects that were launched in May. Fall leads to a decline in both the number of successful and failed projects, except for an uptick in October. The number of successful and failed projects reaches their toughs in December. However, because the number of projects that succeed (37)is very close to the number of projects that fail (35), this means that there is roughly a fifty percent chance your project will fail, even though in absolute terms, December is the month plagued with the fewest failed projects. 
+This chart shows that May is the month in which the most successful kickstarter campaigns are launched. However what is also true is that May is the month in which the most failed kickstarter campaigns are launched. In fact the peaks and troughs of both trend lines mirror one another thoughout the year. Between January and February, there is an uptick in both the number of failed projects and the number of successful projects. This is followed by decline in March, upticks in April and May. In the summer months of May, June, and July there are more successful projects than failed projects, however the decline in successful projects is greater in magnitude than the decline in failed projects, which more closely resembles a plateau. Therefore relatively fewer projects are succesfful later in the summer compared to the proportion of successful projects that were launched in May. Fall leads to a decline in both the number of successful and failed projects, except for an uptick in October. The number of successful and failed projects reaches their toughs in December. However, because the number of projects that succeed (37)is very close to the number of projects that fail (35), this means that there is roughly a fifty percent chance your project will fail, even though in absolute terms, December is the month plagued with the fewest failed projects. 
 
 ### Analysis of Outcomes Based on Goals
 
@@ -21,7 +21,7 @@ This chart shows that May is the month in which the most successful kickstarter 
 ## **Results**
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+A project is most likely to succeed if its kickstarter is launched in May. A project has roughly an equal chance of succeeding or failing if launched in December.
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
