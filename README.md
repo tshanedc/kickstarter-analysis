@@ -21,9 +21,10 @@ The goal of this project is to determine and exploit any clear trends that sugge
 ## **Results**
 
 - **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+
 A project is most likely to succeed if its kickstarter is launched in May. A project has roughly an equal chance of succeeding or failing if launched in December.
 - **What can you conclude about the Outcomes based on Goals?**
 
 - **What are some limitations of this dataset?**
 
-- **What are some other possible tables and/or graphs that we could create?*
+- **What are some other possible tables and/or graphs that we could create?**
